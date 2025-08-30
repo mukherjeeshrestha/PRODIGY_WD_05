@@ -32,6 +32,9 @@ Update the API Key: Open script.js and replace const API_KEY = 'YOUR_API_KEY'; w
 
 Open the application: Simply open index.html in your web browser.
 
+# Github Pages Deployment
+https://mukherjeeshrestha.github.io/PRODIGY_WD_05/
+
 # Project Structure
 index.html: The main HTML file for the application's structure.
 
