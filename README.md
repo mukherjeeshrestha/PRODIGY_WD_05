@@ -39,4 +39,3 @@ style.css: Contains custom CSS for additional styling and effects.
 
 script.js: Handles all the application logic, including fetching data from the API and updating the UI.
 
-Feel free to contribute to this project or use it as a starting point for your own.
